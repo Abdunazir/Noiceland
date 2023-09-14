@@ -1,0 +1,5 @@
+@media (max-width: 1200px)and( min-width: 990px) {
+.nav{
+    background-color: red;
+}
+}
